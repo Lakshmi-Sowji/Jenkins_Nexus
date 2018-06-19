@@ -10,8 +10,8 @@
    <distributionManagement>
         <repository>
             <id>deployment</id>
-            <name>repository1</name>
-            <url>http://http://localhost:8081/repository/repository1/</url>
+            <name>snapshot1</name>
+            <url>http://localhost:8081/repository/snapshot1/</url>
         </repository>
     </distributionManagement>
   <dependencies>
